@@ -1,4 +1,4 @@
-# Unveiling-Experts---Used-data
+# Unveiling-Experts-Used-data
 Repositories used in the article "Unveiling Experts in Data Science: A Mining Software Repositories Perspective".
 
 https://github.com/OpenMined/PySyft 
